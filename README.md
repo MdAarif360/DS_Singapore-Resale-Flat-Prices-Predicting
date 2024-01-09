@@ -52,7 +52,3 @@ Initial app layout
 Web page with predicted result
 ![Result](https://github.com/HemachandarAravamuthan/Singapore_Flat_ResalePrices_Predicting/assets/141393571/6e802c92-610e-4218-801e-b95660a712ae)
 ## Contact
-
-Email: hemachandar11@gmail.com
-
-Linkedin: https://www.linkedin.com/in/hemachandar-aravamuthan-1594b1194/
