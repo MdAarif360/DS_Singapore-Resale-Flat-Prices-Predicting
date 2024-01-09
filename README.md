@@ -45,7 +45,7 @@ Install libraries to run this project
 ## Screenshots
 
 Initial app layout
-![App layout](https://github.com/HemachandarAravamuthan/Singapore_Flat_ResalePrices_Predicting/assets/141393571/6207dda9-5d77-4d1d-9f40-e77f70ed2192)
+![App layout](https://github.com/MdAarif360/DS_Singapore-Resale-Flat-Prices-Predicting/blob/15dfe320c284b3266a9da8cd3032ae953285cb59/assets/Input.png)
 
 
 
