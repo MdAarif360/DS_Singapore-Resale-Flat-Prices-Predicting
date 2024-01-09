@@ -50,5 +50,5 @@ Initial app layout
 
 
 Web page with predicted result
-![Result](https://github.com/HemachandarAravamuthan/Singapore_Flat_ResalePrices_Predicting/assets/141393571/6e802c92-610e-4218-801e-b95660a712ae)
+![Result](https://github.com/MdAarif360/DS_Singapore-Resale-Flat-Prices-Predicting/blob/53a2064e60c08324a5c825b03120b0160a4c57da/assets/Output.png)
 ## Contact
